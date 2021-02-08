@@ -1,6 +1,6 @@
 # What
 
-This sketch is an API server aimed for controlling a single motor via H-bridge motor driver for ESP-01.
+This sketch is an API server aimed to control a single motor via H-bridge motor driver for ESP-01.
 
 # Circuit
 
